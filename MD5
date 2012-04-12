@@ -1,11 +1,11 @@
-c8f6dceb60888c45d611ed0199ef07c6 *DESCRIPTION
+3de98163264fa162b90d51a813a814f7 *DESCRIPTION
 9a14b26c7077ae5d5dc9e995ea700e3e *NAMESPACE
-a0e9161dca85e446924f6e518d62b1f2 *R/doParallel.R
+90a7bb36d4eaf258fb967ae6f18e7384 *R/doParallel.R
 1429a570215bc2a283b9909efe166cfc *R/zzz.R
 ad6e7aeda54fa895a60fd8c0c92a39bf *demo/00Index
 acd97a961dc67743d9ae85b28aa8fec1 *demo/sincParallel.R
 0b57360980991396a71af17207997b96 *inst/doc/gettingstartedParallel.Rnw
-dd39f54fcb334e01033a67c9ccb87399 *inst/doc/gettingstartedParallel.pdf
+424a7ccd5b9ac00287bb01797458eb75 *inst/doc/gettingstartedParallel.pdf
 d474608c6ae9ef50c16e3e773a566412 *inst/examples/bootParallel.R
 ccb40b21ecc17bd71f764d7d67da9a7d *inst/unitTests/options.R
 59f11a4ad61aea4c525507b6ac0ae4b2 *inst/unitTests/runTestSuite.sh
