@@ -4,7 +4,7 @@
 ### code chunk number 1: loadLibs
 ###################################################
 library(doParallel)
-cl <- makeCluster(3)
+cl <- makeCluster(2)
 registerDoParallel(cl)
 foreach(i=1:3) %dopar% sqrt(i)
 
@@ -19,7 +19,7 @@ stopCluster(cl)
 ### code chunk number 3: gettingstartedParallel.Rnw:193-196
 ###################################################
 library(doParallel)
-cl <- makeCluster(3)
+cl <- makeCluster(2)
 registerDoParallel(cl)
 
 
